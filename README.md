@@ -1,2 +1,2 @@
-# Nova Launcher Setups
-A collection of gorgeous nova launcher setups.
+# Android Launcher Setups
+A collection of gorgeous Android launcher apps customization setups.
